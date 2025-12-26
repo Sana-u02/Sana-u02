@@ -27,7 +27,7 @@ Aspiring Data Scientist focused on turning raw data into clear, actionable insig
 
 <br>  
 
-## Featured Projects
+<!-- ## Featured Projects
 
 - Data analysis and EDA projects using real world datasets  
 - Reusable notebooks for data cleaning, visualization, and insights  
@@ -37,11 +37,12 @@ Aspiring Data Scientist focused on turning raw data into clear, actionable insig
 - Business intelligence dashboards using Power BI  
 - Recommendation systems 
 
-<br>  
+<br>  -->
 
-## Technical Expertise
 
-<div align="center" style="line-height: 2.5;">
+ ## Technical Expertise
+
+  <div align="center" style="line-height: 2.5;">
   <!-- Row 1 -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" />
@@ -53,7 +54,8 @@ Aspiring Data Scientist focused on turning raw data into clear, actionable insig
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50" />
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50" />
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="50" />
-</div>
+</div> 
+
 
 
 <!-- ## Development Activity <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sana-u02&theme=gruvbox&hide_border=true&bg_color=0d1117&color=e06c75&line=61afef&point=56b6c2&area=true&hide=issue,pr,commit" alt="Activity Graph"/> </div> <!-- <div align="center"> <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sana-u02&theme=gruvbox&background=0d1117&border=373b41&stroke=abb2bf&ring=e06c75&fire=98c379&currStreakLabel=e06c75&sideNums=56b6c2&sideLabels=abb2bf&dates=61afef&hide_border=true" alt="GitHub Streak"/> -->
