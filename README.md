@@ -4,15 +4,17 @@
 
   <br>
 
+  <div align="center">
+
   <a href="mailto:sana.usman022@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sana-u-9b39a2297/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Status-Active%20Learner-blue?style=for-the-badge&logo=databricks&logoColor=white&color=0d1117" alt="Status Badge"/>
+  <img src="https://img.shields.io/badge/Status-Active%20Learner-0d1117?style=for-the-badge&logo=databricks&logoColor=white" alt="Status Badge"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-purple?style=for-the-badge&logo=tensorflow&logoColor=white&color=0d1117" alt="Focus Badge"/>
 
@@ -63,7 +65,7 @@ Aspiring Data Scientist focused on turning raw data into clear, actionable insig
 
 
   
-## Development Activity  
+<!--  ## Development Activity  
   
 <div align="center">  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sana-u02&theme=gruvbox&hide_border=true&bg_color=0d1117&color=e06c75&line=61afef&point=56b6c2&area=true&hide=issue,pr,commit" alt="Activity Graph"/>  
