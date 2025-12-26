@@ -1,14 +1,22 @@
+<div align="center">
 
-<div align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=007acc&center=true&vCenter=true&width=600&lines=Welcome+to+my+Data+Science+Journey;I'm+Sana+Usman;Aspiring+Data+Scientist;Building+Real-World+Projects;Let's+Create+Impact+Together!" alt="Typing SVG" />  
-</div>  
-  
-<div align="center">  
-  <img src="https://img.shields.io/badge/Status-Active%20Learner-blue?style=for-the-badge&logo=databricks&logoColor=white&color=0d1117" alt="Status Badge"/>  
-  <img src="https://img.shields.io/badge/Projects-Portfolio%20Driven-green?style=for-the-badge&logo=github&logoColor=white&color=0d1117" alt="Projects Badge"/>   
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-purple?style=for-the-badge&logo=tensorflow&logoColor=white&color=0d1117" alt="Focus Badge"/>  
-</div>  
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=007acc&center=true&vCenter=true&width=600&lines=Welcome+to+my+Data+Science+Journey;I'm+Sana+Usman;Aspiring+Data+Scientist;Building+Real-World+Projects;Let's+Create+Impact+Together!" alt="Typing SVG" />
+
+  <br><br>
+
+  <a href="mailto:sana.usman022@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sana-u-9b39a2297/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Active%20Learner-blue?style=for-the-badge&logo=databricks&logoColor=white&color=0d1117" alt="Status Badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-purple?style=for-the-badge&logo=tensorflow&logoColor=white&color=0d1117" alt="Focus Badge"/>
+
+</div>
  
   
 ## About Me  
@@ -68,17 +76,6 @@ Aspiring Data Scientist focused on turning raw data into clear, actionable insig
 
 
   
-  
-  
-## Connect
-
-<a href="mailto:sana.usman022@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/sana-u-9b39a2297/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
 
 
