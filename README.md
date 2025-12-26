@@ -18,7 +18,7 @@
 
 Aspiring Data Scientist focused on turning raw data into clear, actionable insights through real world projects.
 
-### Current Focus
+**Current Focus:**
 - Data analysis and visualization  
 - Machine learning model building and tuning  
 - Deep learning fundamentals and applications  
