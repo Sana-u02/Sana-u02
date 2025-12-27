@@ -62,8 +62,12 @@ Aspiring Data Scientist focused on turning raw data into clear, actionable insig
 
 
 
+
+
+
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=61afef&center=true&vCenter=true&width=450&lines=Thank+you+for+visiting;Let's+build+the+future+of+AI+together"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=61afef&center=true&vCenter=true&width=450&lines=Thank+you+for+visiting;Thank+you+for+visiting"/>
 
 </div>
