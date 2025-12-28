@@ -4,8 +4,8 @@
 
   <br> 
   <!-- Only LinkedIn, Status, and Focus badges -->
-  <a href="https://www.linkedin.com/in/sana-u-9b39a2297/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+<!--  <a href="https://www.linkedin.com/in/sana-u-9b39a2297/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> -->
   </a> 
   &nbsp; 
   <img src="https://img.shields.io/badge/Status-Active%20Learner-0d1117?style=for-the-badge&logo=databricks&logoColor=white" alt="Status Badge"/> 
